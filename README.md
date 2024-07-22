@@ -1,3 +1,3 @@
 <div align="center">
-# Curso de React ⚛️
+# React desde cero⚛️
 </div>
